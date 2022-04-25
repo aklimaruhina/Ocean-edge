@@ -218,13 +218,13 @@ color:white;
 @media only screen
 and (min-width : 1200) {}
 /*tablet landscape*/
-@media screen and (min-width: 1024px) and (max-width: 1600px)  {}
+@media only screen and (min-width: 1024px) and (max-width: 1600px)  {}
 /*tablet portrait*/
-@media screen and (min-width: 768px) and (max-width: 1023px)  {}
+@media only screen and (min-width: 768px) and (max-width: 1023px)  {}
 /*smartphone landscape*/
-@media screen and (min-width: 480px) and (max-width: 767px)  {}
+@media only screen and (min-width: 480px) and (max-width: 767px)  {}
 /*smartphone portrait*/
-@media screen /*and (min-width: 320px)*/
+@media only screen /*and (min-width: 320px)*/
 and (max-width: 479px) {}
 
 
